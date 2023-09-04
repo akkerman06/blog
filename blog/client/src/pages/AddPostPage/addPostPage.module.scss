@@ -1,0 +1,52 @@
+.cardAddPost{
+    max-width: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+label{
+    cursor: pointer;
+}
+.file{
+    display: none;
+}
+.addinput{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.addfile{
+    margin-top: 15px;
+    padding-top: 40px;
+    padding-bottom: 24px;
+    background: #F5F5F5;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.desc{
+    border-radius: 5px;
+    background: #f5f5f5;
+    padding: 13px 15px;
+    width: 100%;
+    border: 0;
+    width: 540px;
+    height: 165px;
+}
+
+textarea{
+    border: none;
+    outline: none;
+}
+select{
+    border-radius: 5px;
+    background: #f5f5f5;
+    padding: 13px 15px;
+    width: 100%;
+    outline: none;
+    border: none;
+}

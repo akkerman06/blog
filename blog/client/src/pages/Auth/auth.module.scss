@@ -1,0 +1,22 @@
+.auth {
+    max-width: 396px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 75px;
+  }
+  
+.form {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.wrap{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.register{
+  display: flex;
+  justify-content: flex-end;
+}
